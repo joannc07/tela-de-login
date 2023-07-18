@@ -1,0 +1,43 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(v748-toon-111.jpg);
+}
+
+.tela_de_login{
+    background-color: rgba(159, 153, 153, 0.763); 
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 10%;
+    padding: 4%;
+    border-radius: 20px;
+    border: solid rgba(234, 125, 30, 0.491) 2px;
+}
+
+.titulo{
+    color: white;
+    text-shadow: 3px 3px black;
+}
+
+input{
+    border-radius: 5px;
+    margin-left: 8%;
+    width: 80%;
+}
+
+button{
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 38%;
+}
+
+.user{
+    width: 100px;
+    margin-left: 27%;
+    opacity: 0.5;
+}
+
+label{
+    color: rgb(255, 255, 255);
+    text-shadow:2px 2px rgb(0, 0, 0);
+    margin-left: 40%;
+}
